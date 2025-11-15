@@ -1,0 +1,13 @@
+Task Name,Duration,Start Date,Finish Date,Predecessors,Resource Names,Notes
+Project Initiation,3d,11-Nov-2025,13-Nov-2025,,Project Manager,"Define objectives, scope, and stakeholders"
+Requirements Gathering,5d,14-Nov-2025,20-Nov-2025,1,System Analyst,Collect functional and non-functional requirements
+System Design,7d,21-Nov-2025,01-Dec-2025,2,System Analyst; Developer,"Create architecture, database, and UI design"
+Development,15d,02-Dec-2025,22-Dec-2025,3,Developer,Build and integrate system modules
+Testing,7d,23-Dec-2025,31-Dec-2025,4,Tester,"Perform unit, integration, and user acceptance testing"
+Deployment,3d,01-Jan-2026,05-Jan-2026,5,Developer,Deploy system on live environment
+Training & Documentation,4d,06-Jan-2026,09-Jan-2026,6,Trainer,Train staff and prepare manuals
+Project Closure,2d,12-Jan-2026,13-Jan-2026,7,Project Manager,Final review and project handover
+Requirements Approved,0d,14-Jan-2026,14-Jan-2026,8,Project Manager,Milestone after Requirements Gathering
+Design Completed,0d,15-Jan-2026,15-Jan-2026,9,Project Manager,Milestone after System Design
+System Live,0d,16-Jan-2026,16-Jan-2026,10,Project Manager,Milestone after Deployment
+Project Closed,0d,19-Jan-2026,19-Jan-2026,11,Project Manager,Milestone after Project Closure
